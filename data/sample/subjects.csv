@@ -1,0 +1,26 @@
+subject_id,subject_name,credits,department_name
+CS101,Data Structures & Algorithms,4.0,Computer Science
+CS102,Database Management Systems,4.0,Computer Science
+CS103,Operating Systems,3.0,Computer Science
+CS104,Computer Networks,3.0,Computer Science
+CS105,Theory of Computation,3.0,Computer Science
+CS106,Software Engineering,3.0,Computer Science
+IT101,Web Technologies,3.0,Information Technology
+IT102,Data Mining & Warehousing,4.0,Information Technology
+IT103,Cloud Computing,3.0,Information Technology
+IT104,Information Security,3.0,Information Technology
+IT105,Object Oriented Programming,4.0,Information Technology
+EC101,Digital Electronics,4.0,Electronics & Comm
+EC102,Microprocessors & Microcontrollers,4.0,Electronics & Comm
+EC103,Signals and Systems,3.0,Electronics & Comm
+EC104,Analog Communication,3.0,Electronics & Comm
+EC105,VLSI Design,4.0,Electronics & Comm
+ME101,Thermodynamics,4.0,Mechanical Eng
+ME102,Fluid Mechanics,4.0,Mechanical Eng
+ME103,Kinematics of Machinery,3.0,Mechanical Eng
+ME104,Manufacturing Processes,3.0,Mechanical Eng
+ME105,Heat Transfer,3.0,Mechanical Eng
+MA101,Engineering Mathematics I,4.0,Applied Sciences
+MA102,Engineering Mathematics II,4.0,Applied Sciences
+PH101,Engineering Physics,3.0,Applied Sciences
+CY101,Engineering Chemistry,3.0,Applied Sciences

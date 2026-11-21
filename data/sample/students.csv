@@ -1,0 +1,121 @@
+student_id,student_name,department_name,program,batch,backlog_count,previous_gpa
+STU2022001,Gaurav Sharma,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,8.19
+STU2022002,Rahul Gupta,Information Technology,B.Tech Information Technology,2022-2026,0,8.33
+STU2022003,Pooja Nair,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,7.81
+STU2022004,Divya Kapoor,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,2,6.79
+STU2022005,Devi Bhat,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,9.21
+STU2022006,Karan Verma,Information Technology,B.Tech Information Technology,2022-2026,1,7.36
+STU2022007,Aditi Patel,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,9.22
+STU2022008,Nikhil Gupta,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,8.04
+STU2022009,Aditi Pillai,Computer Science,B.Tech Computer Science & Engineering,2022-2026,1,6.86
+STU2022010,Neha Chatterjee,Information Technology,B.Tech Information Technology,2022-2026,0,8.64
+STU2022011,Zoya Gupta,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,7.6
+STU2022012,Tanvi Bhat,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,6.79
+STU2022013,Rahul Sharma,Computer Science,B.Tech Computer Science & Engineering,2022-2026,1,7.02
+STU2022014,Manish Chatterjee,Information Technology,B.Tech Information Technology,2022-2026,0,7.18
+STU2022015,Karan Das,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,8.35
+STU2022016,Rahul Nair,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,8.72
+STU2022017,Nikhil Das,Computer Science,B.Tech Computer Science & Engineering,2022-2026,1,8.51
+STU2022018,Divya Patel,Information Technology,B.Tech Information Technology,2022-2026,1,7.85
+STU2022019,Vikram Reddy,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,7.79
+STU2022020,Sneha Choudhury,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,7.4
+STU2022021,Priya Verma,Computer Science,B.Tech Computer Science & Engineering,2022-2026,2,7.39
+STU2022022,Siddharth Pillai,Information Technology,B.Tech Information Technology,2022-2026,1,7.81
+STU2022023,Gaurav Joshi,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,9.83
+STU2022024,Devi Pillai,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,7.81
+STU2022025,Rhea Menon,Computer Science,B.Tech Computer Science & Engineering,2022-2026,1,6.56
+STU2022026,Varun Bhat,Information Technology,B.Tech Information Technology,2022-2026,0,9.22
+STU2022027,Neha Chatterjee,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,1,7.51
+STU2022028,Deepak Verma,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,7.46
+STU2022029,Pooja Kumar,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,8.75
+STU2022030,Devi Gupta,Information Technology,B.Tech Information Technology,2022-2026,0,9.76
+STU2022031,Divya Joshi,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,8.56
+STU2022032,Rahul Mehta,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,8.45
+STU2022033,Varun Iyer,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,9.06
+STU2022034,Varun Choudhury,Information Technology,B.Tech Information Technology,2022-2026,1,7.09
+STU2022035,Nikhil Kapoor,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,8.3
+STU2022036,Rahul Chatterjee,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,7.21
+STU2022037,Deepak Saxena,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,7.26
+STU2022038,Manish Pillai,Information Technology,B.Tech Information Technology,2022-2026,1,9.31
+STU2022039,Pranav Iyer,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,1,7.6
+STU2022040,Siddharth Joshi,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,2,6.86
+STU2022041,Rahul Menon,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,9.75
+STU2022042,Pooja Kapoor,Information Technology,B.Tech Information Technology,2022-2026,0,8.91
+STU2022043,Sanjay Verma,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,8.56
+STU2022044,Pooja Verma,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,2,7.02
+STU2022045,Sanjay Joshi,Computer Science,B.Tech Computer Science & Engineering,2022-2026,2,7.54
+STU2022046,Rahul Patel,Information Technology,B.Tech Information Technology,2022-2026,3,6.55
+STU2022047,Nikhil Bhat,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,1,7.58
+STU2022048,Sanjay Rao,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,6.81
+STU2022049,Aditya Joshi,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,8.82
+STU2022050,Siddharth Nair,Information Technology,B.Tech Information Technology,2022-2026,0,8.23
+STU2022051,Priya Nair,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,1,7.78
+STU2022052,Pranav Pillai,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,9.35
+STU2022053,Priya Bhat,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,8.55
+STU2022054,Karan Bhat,Information Technology,B.Tech Information Technology,2022-2026,1,8.9
+STU2022055,Yash Choudhury,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,1,7.94
+STU2022056,Pooja Nair,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,9.34
+STU2022057,Aditya Patel,Computer Science,B.Tech Computer Science & Engineering,2022-2026,1,7.71
+STU2022058,Arjun Reddy,Information Technology,B.Tech Information Technology,2022-2026,0,8.45
+STU2022059,Kavya Menon,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,6.95
+STU2022060,Manish Kapoor,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,7.54
+STU2022061,Karan Saxena,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,8.39
+STU2022062,Deepak Joshi,Information Technology,B.Tech Information Technology,2022-2026,0,8.37
+STU2022063,Vikram Saxena,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,6.81
+STU2022064,Siddharth Kulkarni,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,7.56
+STU2022065,Priya Pillai,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,8.4
+STU2022066,Aarav Kapoor,Information Technology,B.Tech Information Technology,2022-2026,2,6.8
+STU2022067,Gaurav Kapoor,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,1,8.22
+STU2022068,Rahul Menon,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,7.99
+STU2022069,Shreya Reddy,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,9.02
+STU2022070,Rhea Bose,Information Technology,B.Tech Information Technology,2022-2026,1,7.99
+STU2022071,Manish Mehta,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,9.52
+STU2022072,Aarav Singh,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,9.34
+STU2022073,Meera Kulkarni,Computer Science,B.Tech Computer Science & Engineering,2022-2026,1,6.78
+STU2022074,Divya Menon,Information Technology,B.Tech Information Technology,2022-2026,1,7.24
+STU2022075,Rohan Menon,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,8.76
+STU2022076,Neha Nair,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,9.25
+STU2022077,Varun Iyer,Computer Science,B.Tech Computer Science & Engineering,2022-2026,2,7.43
+STU2022078,Aarav Saxena,Information Technology,B.Tech Information Technology,2022-2026,2,5.87
+STU2022079,Sanjay Deshmukh,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,1,9.13
+STU2022080,Aditi Reddy,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,9.35
+STU2022081,Varun Kumar,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,8.41
+STU2022082,Pranav Verma,Information Technology,B.Tech Information Technology,2022-2026,0,9.22
+STU2022083,Pranav Bhat,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,1,6.4
+STU2022084,Devi Patel,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,8.74
+STU2022085,Aditya Patel,Computer Science,B.Tech Computer Science & Engineering,2022-2026,1,7.13
+STU2022086,Ishaan Nair,Information Technology,B.Tech Information Technology,2022-2026,1,6.7
+STU2022087,Aishwarya Pillai,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,2,5.73
+STU2022088,Manish Singh,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,8.55
+STU2022089,Karan Rao,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,8.33
+STU2022090,Neha Chatterjee,Information Technology,B.Tech Information Technology,2022-2026,1,7.74
+STU2022091,Rohan Joshi,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,7.7
+STU2022092,Varun Mehta,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,9.08
+STU2022093,Tanvi Reddy,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,7.06
+STU2022094,Pranav Gupta,Information Technology,B.Tech Information Technology,2022-2026,0,8.54
+STU2022095,Deepak Das,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,8.45
+STU2022096,Aditi Bhat,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,9.15
+STU2022097,Pooja Bhat,Computer Science,B.Tech Computer Science & Engineering,2022-2026,2,4.9
+STU2022098,Pooja Sharma,Information Technology,B.Tech Information Technology,2022-2026,0,8.34
+STU2022099,Deepak Chatterjee,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,1,7.18
+STU2022100,Arjun Gupta,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,7.0
+STU2022101,Deepak Verma,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,8.28
+STU2022102,Shreya Patel,Information Technology,B.Tech Information Technology,2022-2026,2,7.32
+STU2022103,Pranav Singh,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,9.85
+STU2022104,Aditya Rao,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,1,7.36
+STU2022105,Ishaan Bhat,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,9.31
+STU2022106,Aishwarya Gupta,Information Technology,B.Tech Information Technology,2022-2026,0,7.95
+STU2022107,Aishwarya Bose,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,1,7.13
+STU2022108,Neha Reddy,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,8.36
+STU2022109,Divya Kapoor,Computer Science,B.Tech Computer Science & Engineering,2022-2026,2,6.09
+STU2022110,Karan Choudhury,Information Technology,B.Tech Information Technology,2022-2026,1,9.39
+STU2022111,Karan Bose,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,8.98
+STU2022112,Siddharth Verma,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,2,6.72
+STU2022113,Divya Verma,Computer Science,B.Tech Computer Science & Engineering,2022-2026,0,9.79
+STU2022114,Yash Das,Information Technology,B.Tech Information Technology,2022-2026,0,8.65
+STU2022115,Divya Gupta,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,0,6.9
+STU2022116,Neha Rao,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,8.28
+STU2022117,Tanvi Nair,Computer Science,B.Tech Computer Science & Engineering,2022-2026,2,5.87
+STU2022118,Karan Iyer,Information Technology,B.Tech Information Technology,2022-2026,0,8.4
+STU2022119,Rahul Mehta,Electronics & Comm,B.Tech Electronics & Communication,2022-2026,1,7.93
+STU2022120,Pranav Patel,Mechanical Eng,B.Tech Mechanical Engineering,2022-2026,0,8.57
